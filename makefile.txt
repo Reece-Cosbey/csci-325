@@ -1,6 +1,6 @@
 # @Author Reece Cosbey
 # @File Name makefile
-# @date 2023-09-22
+# @date 2024-09-20
 # @brief makefile for compiling the program
 
 CC = g++
