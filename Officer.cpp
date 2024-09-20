@@ -4,9 +4,7 @@
  */
 #include "Officer.h"
 #include <iostream>
-
 using namespace std;
-
 Officer::Officer() {
   evilness = 500;
 }
